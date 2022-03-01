@@ -1,0 +1,8 @@
+banana.jpg
+carne-cerdo.jpg
+espinacas.jpg
+manzana.jpg
+matambre.jpg
+naranja.jpg
+papa.jpg
+zanahorias.jpg

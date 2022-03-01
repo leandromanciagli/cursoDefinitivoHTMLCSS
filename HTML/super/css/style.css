@@ -1,0 +1,32 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color:thistle;
+}
+
+li {
+    color:thistle;
+}
+
+ul li {
+    font-size: 30px;
+}
+
+ol li {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.tamanio_alimento {
+    width: 250px;
+    height: auto;
+}
